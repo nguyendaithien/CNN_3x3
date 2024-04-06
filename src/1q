@@ -1,0 +1,11 @@
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/CONV_ACC.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/IFM_BUF.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/PE.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/PE_FSM.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/PSUM_ADD.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/PSUM_BUF.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/SYNCH_FIFO.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/WGT_BUF.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/WRITE_BACK.v
+/home/cucai2001/RTL/CNN-Accelerator-VLSI/src/tb_conv.v
+
